@@ -30,3 +30,9 @@ Rules details2:
 
 · The player who wins the Tie-Break wins the Set and the match
 
+
+
+
+
+La classe Joueur est modifié en ajoutant l'attribut "nb_win" qui indique le nombre de fois le joueur a déjà gagné.
+La classe GrandMatch fait des simulations de match.
